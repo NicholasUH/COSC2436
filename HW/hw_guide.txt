@@ -1,0 +1,5 @@
+HW1 - Basic String Manipulation
+HW2 - Linked Lists
+HW3 - Stacks and Queues
+HW4 - Priority Queues and Binary Search Trees
+HW5 - B-Trees

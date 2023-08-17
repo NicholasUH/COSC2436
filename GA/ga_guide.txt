@@ -1,0 +1,3 @@
+GA1 - Linked Lists and Recursion
+GA2 - Priority Queue and Stacks
+GA3 - Binary Search Trees
